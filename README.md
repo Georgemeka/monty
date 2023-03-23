@@ -1,3 +1,3 @@
-# Monty Project
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 
-Collaborators: George Iheanyi and Joy Bassey
+Contributors: [Joy Bassey](https://github.com/joy2bassie) and [George Iheanyi] (https://github.com/georgemeka)
